@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html><head>
+    <title>
+人民日报
+-
+“创新积分制”扩展到全国试行
+</title>
+    <meta charset="utf-8" name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" href="../../../tplimg/news.css">
+    <style>
+      body{
+        font-family: '宋体';
+      }
+      .pci_c td{
+        text-align: center;
+      }
+      .pci_c td img{
+        width:85%;
+        margin:0 auto;
+      }
+      #scroller p{padding:5px 0;line-height: 160%;}
+    </style>
+</head>
+<body>
+<div style="display:none" id="hiddenWxPic"> <img id="paper" src="../../../tplimg/Page_b.jpg" usemap="#PagetupMap" style="z-index:999;"></div>
+<div id="main" style="overflow: hidden;">
+  <div id="scroller" style="transition-property: transform; transform-origin: 0px 0px 0px; transform: translate(0px, 0px) translateZ(0px);">
+    <div class="caption"> <a name="top" id="top"></a>
+      
+助力企业科技创新
+
+      <font id="main-title">
+        
+“创新积分制”扩展到全国试行
+
+      </font> <font id="sub-title">
+          
+
+
+          </font> 
+          <font></font>
+          <font id="author">
+            2024年08月15日
+          </font></div>
+    <div class="content" id="content">
+      <!--图片与正文-->
+               <div id="showArtPicsDiv" align="center"></div>
+               <script language=javascript>
+                               /*	if(picResCount>0){
+                                       document.getElementById("picres").style.display="block";
+                                       document.write("<br />");
+                                   }*/
+                                  </script>
+                
+               <!--enpcontent--><P>　　本报北京8月14日电&nbsp;&nbsp;（记者谷业凯、赵永新）科技部办公厅近日印发《“创新积分制”工作指引（全国试行版）》（以下简称《指引》），标志着“创新积分制”适用范围从国家高新区进一步扩展到全国试行。</P><P>　　据了解，“创新积分制”是一种新型科技金融政策工具，自2020年起在国家高新区试点。通过客观可信的企业创新能力评价指标数据及科学严谨的企业创新积分量化评价结果，“创新积分制”引导科技创新资源、财政优惠政策、金融资源、创业投资等向科技型企业精准聚集，积分应用场景也将逐步在科技政策、股权投资、企业上市等方面得到拓展。</P><P>　　截至2023年底，实施“创新积分制”的试点高新区已达133家，其中包括101家国家高新区和32家省级高新区，覆盖25个省份。国内主要商业银行等推出了“创新积分贷”专项金融产品。近20家银行主动与积分试点地区合作，2022至2023年为积分企业对接授信超2000亿元。</P><P>　　此次印发的《指引》明确了“统一指导、全国试行，因地制宜、鼓励创新，精准画像、多元赋能”的基本原则，主要内容包括指标及权重、数据汇集及分析、结果应用建议等方面。</P><P>　　创新积分核心指标共涵盖3类一级指标、18个二级指标。第一类是技术创新指标，包括研发费用金额、研发费用增速、企业技术合同成交额等7个指标；第二类是成长经营指标，包括高新技术产品收入、研究生以上人员占比等6个指标；第三类是辅助指标，包括吸纳应届毕业生人数、承担建设省级及以上研发或创新平台数量等5个指标。</P><P>　　在指标权重设置上，《指引》以突出对企业创新能力评价、注重对企业成长经营能力考察为导向，同时划分了初创期、成长期、稳定期企业不同阶段，确定相应指标的权重赋值，并将根据实践情况持续优化。</P><P>　　为切实提高服务效率，科技部通过国家科技管理信息系统汇集各地方科技管理部门的积分企业数据，充分利用大数据技术对积分企业精准画像，在科技创新再贷款、科技创新贷款等金融产品中积极推荐优质积分企业。</P><!--/enpcontent-->
+   <INPUT type=checkbox value=0 name=titlecheckbox sourceid="<Source>SourcePh</Source>" style="display:none">
+    </div>
+  </div>
+  <div style="position: absolute; z-index: 100; width: 7px; bottom: 2px; top: 2px; right: 1px; pointer-events: none; transition-property: opacity; transition-duration: 350ms; overflow: hidden; opacity: 0;">
+    <div style="position: absolute; z-index: 100; border: 1px solid rgba(255, 255, 255, 0.901961); box-sizing: border-box; width: 100%; border-radius: 3px; pointer-events: none; transition-property: transform; transition-timing-function: cubic-bezier(0.33, 0.66, 0.66, 1); transform: translate(0px, 0px) translateZ(0px); height: 345px; background: padding-box padding-box rgba(0, 0, 0, 0.498039);"></div>
+  </div>
+</div>
+<div id="mask"></div>
+<a href="javascript:scroll(0,0)" id="toTop"></a>
+<div id="share">
+  <ul>
+	<li><a href="javascript:weixin();" style="background-image:url(../../../tplimg/weixin.png);">微信</a></li>
+	<li><a href="javascript:weixin();" style="background-image:url(../../../tplimg/wxfriend.png);">朋友圈</a></li>
+	<li><a href="javascript:share.qzone();" style="background-image:url(../../../tplimg/qzone.png);">QQ空间</a></li>
+	<li><a href="javascript:share.weibo();" style="background-image:url(../../../tplimg/sina.png);">新浪微博</a></li>
+  </ul>
+</div>
+<div id="operate">
+  <ul>
+    <li><a href="javascript:backPage();" style="background-image:url(../../../tplimg/back.png);"></a></li>
+    <li><a href="javascript:fontLarger();" style="background-image:url(../../../tplimg/font-larger.png);"></a></li>
+    <li><a href="javascript:fontSmaller();" style="background-image:url(../../../tplimg/font-smaller.png);"></a></li>
+  </ul>
+</div>
+
+<div id="mcover" onclick="document.getElementById('mcover').style.display='';" style="display:none;z-index:99999">
+	<img src="../../../tplimg/guide.png" align="right">
+</div>
+
+<script src="../../../tplimg/jquery.min.js"></script>
+<script src="../../../tplimg/jquery.mobile.custom.min.js"></script>
+<script src="../../../tplimg/iscroll.js"></script>
+<script src="../../../tplimg/simple-share.min.js"></script>
+<script src="../../../tplimg/news.js"></script>
+<script src="../../../tplimg/mc.js"></script>
+<script>
+//《取消注释下行代码可以禁用文字复制》
+//document.onselectstart=new Function("event.returnValue=false"); 
+var share = new SimpleShare({
+    url: location.href,
+    title: '',
+    content: ''
+    //pic: ''
+});
+</script>
+<script>
+$(document).ready(function(){
+	$("#content p[mce_keep=true]").each(function(){
+		if($(this).html() == "&nbsp;" ){ //如果没有文字，仅为一个空格
+			$(this).remove();//删除空行	
+		}
+	});
+
+	
+	for(var i=0; i<$("#content p").length; i++){
+		var str = $("#content p").eq(i).html(); 
+		var strNew = str.replace('&nbsp;&nbsp;&nbsp;&nbsp;','　　'); //替换为全角空格
+		$("#content p").eq(i).html(strNew);
+	}
+});
+</script>
+<form id="nav" hidden="true">
+  <a class=preart href="nw.D110000renmrb_20240815_4-15.htm">上一篇</a>&nbsp;&nbsp;<a class=preart href="nw.D110000renmrb_20240815_3-15.htm">下一篇</a>
+  
+<a id="pageaddress" href=nbs.D110000renmrb_15.htm></a>
+
+</form>
+<SCRIPT language=Javascript src="../../../tplimg/webdig_test.js"></SCRIPT>
+</body>
+</html>
+
+<!--mpproperty <founder-date>
+2024-08-15
+</founder-date>
+<founder-author>
+
+</founder-author>
+<founder-title>“创新积分制”扩展到全国试行
+</founder-title>
+<founder-nodename></founder-nodename>
+<founder-keyword>
+
+</founder-keyword><founder-ChannelID>
+1,921
+</founder-ChannelID><founder-imp>0</founder-imp>
+<founder-subtitle></founder-subtitle>
+<founder-type>1</founder-type>
+<founder-introtitle>助力企业科技创新</founder-introtitle>
+<founder-pagepicurl>http://paper.paper.com.cn/rmrbwap/images/2024-08/15/15/rmrb2024081515_b.jpg</founder-pagepicurl>
+<founder-pagenum>15</founder-pagenum>
+<founder-papername>人民日报</founder-papername>
+<founder-nodeid>1,936</founder-nodeid> /mpproperty-->
+
+

@@ -1,0 +1,54 @@
+上海农商银行率先直连“沪科积分”
+上海农商银行率先直连“沪科积分”
+本网讯 记者周轩千报道 近日，上海农商银行完成与上海市“科创在线”平台“沪科积分”评价系统直连对接，成为上海市首家实现银行系统与该官方平台直连的金融机构，在政银数据协同、精准赋能科创企业领域实现新突破，为打破信息壁垒、增强风险识别与客户评估的精准度，进一步提升科创企业赋能质效奠定基础。
+据悉，“沪科积分”是上海市科委联合上海市委金融办、中国人民银行上海市分行、上海金融监管局、上海市财政局、上海市税务局等部门在科技部“创新积分制”基础上推出的科技型企业综合评价体系，旨在通过对企业精准画像引导创新资源、金融服务与政策支持高效集聚。作为上海市科创金融服务主力银行之一，上海农商银行前期积极参与“沪科积分贷”相关工作，此次率先完成数据接口直连银行系统，实现了积分结果同步、可视化展示与场景化应用。
+2026-03-26 16:13:20:742
+上海农商银行率先直连“沪科积分”
+http://www.financialnews.com.cn/2026-03/26/content_446023.html
+http://www.financialnews.com.cn/m/2026-03/26/content_446023.html
+近日，上海农商银行完成与上海市“科创在线”平台“沪科积分”评价系统直连对接，成为上海市首家实现银行系统与该官方平台直连的金融机构，在政银数据协同、精准赋能科创企业领域实现新突破，为打破信息壁垒、增强风险识别与客户评估的精准度，进一步提升科创企业赋能质效奠定基础。
+版权声明：凡本网注明“来源：金融时报·中国金融新闻网”的所有作品，版权均属于金融时报。金融时报与作品作者联合声明，任何组织未经金融时报以及作者书面授权不得转载、摘编或利用其它方式使用上述作品。
+中国人民银行佳木斯市分行开展“金盾迎新岁 存保护万家”存款保险宣传
+邮行兰州市分行开辟老年服务专区，提升助老优质化厅堂服务
+邮储丽水市分行精准赋能青田休闲椅产业发展
+高考来临之际，建行浙江杭州分行开展“善建浙行·爱心助
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+北京市公安局海淀分局备案号：1101084565&nbsp;|&nbsp;京ICP备:06002676号|&nbsp;
+互联网新闻信息服务许可证(10120170073)
+违法和不良信息举报电话 : 010-82198492&nbsp;|&nbsp;举报邮箱：fnweb@vip.126.com
+Copyright © 1998 - 2023&nbsp;|&nbsp;金融时报社版权所有
+window.shareObj = {}
+$(".list_left div ul li").each(function (i) {
+$(this).find(".share a").unbind("click");
+$(this).find(".share a").click(function () {
+var href = $(".list_left div ul li").eq(i).find(".text_con h3 a").attr("href");
+var title = $(".list_left div ul li").eq(i).find(".text_con h3 a").text();
+var brief = $(".list_left div ul li").eq(i).find(".text_con p a").text();
+var shaimg = $(".list_left div ul li").eq(i).find(".image img").attr("src");
+if (shaimg == undefined) {
+shareObj.shareUrl = href;
+console.log(shaimg)
+console.log(brief)
+shareObj.shareTitle = title;
+shareObj.pic = shaimg;
+shareObj.summary = brief;
+if ($(this).hasClass("weixin")) {
+if ($(this).parents(".share").find(".lsrbshare_weixin").length > 0) {
+$(".lsrbshare_weixin").remove()
+$(".list_left div ul li").eq(i).css("z-index", "999").siblings().css("z-index", "1")
+requireQrcode1(i, href)
+function requireQrcode1(index, url) {
+if ($("#codeqr").length > 1) {
+$("#codeqr").show()
+createTableCode1(index, url)
+function createTableCode1(index, url) {
+$(".lsrbshare_weixin").remove();
+$(".list_left div ul li").eq(index).find(".share").append(ss);
+var ua = "canvas";
+if (navigator.userAgent.indexOf("MSIE") > -1) {
+jQuery("#codeqr").qrcode({
+foreground: "#000",
+background: "#FFF",
